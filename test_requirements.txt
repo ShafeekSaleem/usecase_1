@@ -14,3 +14,4 @@ pytest-mock==3.1.0
 urllib3==1.25.11
 virtualenv==20.0.33
 wheel==0.32.2
+test dev
